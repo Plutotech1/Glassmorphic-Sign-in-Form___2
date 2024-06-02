@@ -9,7 +9,7 @@
 <div>
     <h1 align="center">The final look of the website</h1>
     <div align="center">
-        <img src="1.jpeg" width="49%">
+        <img src="https://github.com/Plutotech1/Glassmorphic-Sign-in-Form___2/blob/main/IMG_4695.jpeg" width="49%">
     </div>
 </div>
 <br /><br />
